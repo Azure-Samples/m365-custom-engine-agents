@@ -1,5 +1,5 @@
 aiohappyeyeballs==2.6.1
-aiohttp==3.12.15
+aiohttp==3.13.3
 aioice==0.10.1
 aiortc==1.13.0
 aiosignal==1.4.0
