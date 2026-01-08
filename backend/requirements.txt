@@ -91,7 +91,7 @@ starlette==0.47.2
 tqdm==4.67.1
 typing-extensions==4.14.1
 typing-inspection==0.4.1
-urllib3==2.5.0
+urllib3==2.6.3
 uvicorn==0.35.0
 websockets==15.0.1
 werkzeug==3.1.1
