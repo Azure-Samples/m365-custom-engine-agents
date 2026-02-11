@@ -19,7 +19,7 @@ charset-normalizer==3.4.2
 click==8.2.1
 cloudevents==1.12.0
 colorama==0.4.6
-cryptography==45.0.6
+cryptography==46.0.5
 defusedxml==0.7.1
 deprecation==2.1.0
 distro==1.9.0
